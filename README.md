@@ -27,7 +27,7 @@ Knowledge of ML at the level of CS4780 is recommended. Perhaps more important is
 Students will complete weekly assignments, present a paper, and work on a project during the semester. Depending on enrollment, some of this work may be done in pairs or groups.
 
 ### Weekly Assignments 
-Assignments will be (posted here)[./assignments/] each week on Wednesday and are due the following Wednesday. 
+Assignments will be (posted here)[assignments/README.md] each week on Wednesday and are due the following Wednesday. 
 
 ### Paper Presentations
 During the second half of the semester, students will present selected papers (list to come) and lead a discussion. Students are required to schedule a meeting with the TA to go over their presentation at least two days before they are scheduled to present. [Presentation Details](presentation.md).
