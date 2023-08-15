@@ -27,25 +27,17 @@ Knowledge of ML at the level of CS4780 is recommended. Perhaps more important is
 Students will complete weekly assignments, present a paper, and work on a project during the semester. Depending on enrollment, some of this work may be done in pairs or groups.
 
 ### Weekly Assignments 
-Assignments will be posted each week on Wednesday and are due the following Wednesday. 
-### Paper Presentations
-Students will present selected papers (list to come) and lead a discussion. Presentations should contain a discussion of
- - Motivation: What are the broader motivations for this work?
- - Problem statement: What is the specific problem that the paper tries to solve?
- - Prior work: How does this paper fit into the research landscape?
- - Main ideas/results: What are the main technical results and broader takeaways?
- - Technical tools: How do the authors support the results (e.g. proof techniques or experimental setup)? Be prepared to explain this in detail.
- - Future work: What are some shortcomings of this paper or directions for future work?
-Students should elicit questions and comments from the class at multiple points during the presentation. The presentation should also highlight points of confusion or disagreement to discuss as a class. 
+Assignments will be (posted here)[./assignments/] each week on Wednesday and are due the following Wednesday. 
 
-Students are required to schedule a meeting with the TA to go over their presentation at least two days before they are scheduled to present. Sign up form to come.
+### Paper Presentations
+During the second half of the semester, students will present selected papers (list to come) and lead a discussion. Students are required to schedule a meeting with the TA to go over their presentation at least two days before they are scheduled to present. [Presentation Details](presentation.md).
+
 
 ### Final Project
 Projects can be done in groups of up to four, with expectations scaling with the size of the group. Students are encouraged to propose a topic that connects class material to their research. The deliverables are:
  - Project proposal (1 page) due October 6
  - Midterm update (3 pages) due November 10
  - Project report (5-6 pages) due last day of class
-
 [Final Project Details](project.md).
 
 ### Grading
