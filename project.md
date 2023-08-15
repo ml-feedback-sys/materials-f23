@@ -7,7 +7,7 @@ Key dates:
 - December 4, 2023: Final report due
 
 ## Deliverables
-All deliverables should use the PMLR format, created using the LaTeX template. 
+All deliverables should use the PMLR format, created using the [LaTeX template](https://www.overleaf.com/read/fkdrmrfwgcfj). 
 ### Proposal
 One page. Should include a tentative title, list of team members (up to four), and three sections: description of proposed topic, identifying key pieces of related work, and discussion of goals/proposed approach. Each section should be about one paragraph. No need to include an abstract.
 ### Midterm Update
