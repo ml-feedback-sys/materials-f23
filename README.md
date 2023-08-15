@@ -2,8 +2,8 @@
 *Cornell CS 6784 Fall 2023* 
 
 Meeting MW 2:55-4:15pm in 255 Olin Hall\
-Professor Sarah Dean (sdean@cornell.edu), Office hours TBA\
-TA Raunak Kumar (raunak@cs.cornell.edu), Office hours TBA
+Professor [Sarah Dean](https://sdean.website/), Office hours TBA\
+TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours TBA
 
 If you are on the waitlist, please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSdYhfcsk6G44HnK2NHMMLjvwlGgNo5c6WWlzAqbeGX3v8vX7g/viewform).
 
