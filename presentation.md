@@ -10,6 +10,7 @@ Presentations should contain a discussion of
  - Main ideas/results: What are the main technical results and broader takeaways?
  - Technical tools: How do the authors support the results (e.g. proof techniques or experimental setup)? Be prepared to explain this in detail.
  - Future work: What are some shortcomings of this paper or directions for future work?
+
 Students should elicit questions and comments from the class at multiple points during the presentation. The presentation should also highlight points of confusion or disagreement to discuss as a class. 
 
 Students are required to schedule a meeting with the TA to go over their presentation at least two days before they are scheduled to present. 

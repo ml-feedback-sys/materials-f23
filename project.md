@@ -19,3 +19,4 @@ Five to six pages in the style of a conference submission with title, authors, a
 ## Project Ideas
 You are encouraged to propose a topic that connects class material to your research. You may also extend or reproduce the results of papers we read together in class, either analytically or in simulation. Another option is to develop or extend simulation environments and/or use them to investigate dynamical behaviors or compare algorithms. A third option is to write a survey paper that discusses the ideas of 3-5 closely related papers and maps directions for future work.
 
+*Project format inspired by [CS6789](https://wensun.github.io/CS6789)*

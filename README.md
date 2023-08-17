@@ -27,7 +27,7 @@ Knowledge of ML at the level of CS4780 is recommended. Perhaps more important is
 Students will complete weekly assignments, present a paper, and work on a project during the semester. Depending on enrollment, some of this work may be done in pairs or groups.
 
 ### Weekly Assignments 
-Assignments will be [posted](assignments/README.md) each week on Wednesday and are due the following Wednesday. We will use GitHub collaboration tools to manage and collect your work.
+Assignments will be posted each week on Wednesday and are due the following Wednesday. We will use GitHub collaboration tools to manage and collect your work.
 
 ### Paper Presentations
 During the second half of the semester, students will present selected papers (list to come) and lead a discussion. Students are required to schedule a meeting with the TA to go over their presentation at least two days before they are scheduled to present. [Presentation Details](presentation.md).
@@ -38,6 +38,7 @@ Projects can be done in groups of up to four, with expectations scaling with the
  - Project proposal (1 page) due October 6
  - Midterm update (3 pages) due November 10
  - Project report (5-6 pages) due last day of class
+
 [Final Project Details](project.md).
 
 ### Grading
