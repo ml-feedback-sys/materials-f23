@@ -5,6 +5,7 @@ Meeting MW 2:55-4:15pm in 255 Olin Hall\
 Professor [Sarah Dean](https://sdean.website/), Office hours TBA\
 TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours TBA
 
+Please fill out [this form](https://forms.gle/jrSPksqc6i5v5NTn7) to join the class's collaborative GitHub repository.\\
 If you are on the waitlist, please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSdYhfcsk6G44HnK2NHMMLjvwlGgNo5c6WWlzAqbeGX3v8vX7g/viewform).
 
 ## Description
