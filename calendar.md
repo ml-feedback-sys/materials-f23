@@ -3,7 +3,7 @@
 
 | Date | # | Type | Topic & Materials |
 | --- | --- | --- | --- |
-| 8/21 | 1 | Lecture | Overview & Supervised Learning |
+| 8/21 | 1 | Lecture | Overview & Supervised Learning ([slides](https://slides.com/sarahdean-2/01-overview-ml-in-feedback-sys-f23?token=KZeBAXzM)) |
 | 8/23 | 2 | Lecture | Supervised Learning: Non-discrimination |
 | 8/28 | 3 | Lecture | Supervised Learning: Least squares |
 | 8/30 | 4 | Lecture | Online Learning via Online Convex Optimization |
