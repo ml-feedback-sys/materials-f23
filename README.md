@@ -3,7 +3,7 @@
 
 Meeting MW 2:55-4:15pm in 255 Olin Hall\
 Professor [Sarah Dean](https://sdean.website/), Office hours TBA\
-TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours TBA\
+TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours 5pm - 6pm in Rhodes 574\
 Please use [Ed Discussions](https://edstem.org/us/courses/43757/discussion/) for any questions.
 
 Please fill out [this form](https://forms.gle/jrSPksqc6i5v5NTn7) to join the class's [collaborative GitHub repository](https://github.com/ml-feedback-sys/collaborative-f23).\
