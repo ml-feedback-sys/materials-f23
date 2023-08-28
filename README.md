@@ -1,8 +1,8 @@
 # Machine Learning in Feedback Systems
 *Cornell CS 6784 Fall 2023* 
 
-Meeting MW 2:55-4:15pm in 255 Olin Hall\
-Professor [Sarah Dean](https://sdean.website/), Office hours TBA\
+Meeting MW 2:55-4:10pm in 255 Olin Hall\
+Professor [Sarah Dean](https://sdean.website/), informal office hours MW after lecture in 255 Olin or MW 4:30-5pm in Gates 416A by appointment\
 TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours Mondays 11am - 12pm in Rhodes 574\
 Please use [Ed Discussions](https://edstem.org/us/courses/43757/discussion/) for any questions.
 
