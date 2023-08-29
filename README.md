@@ -3,7 +3,7 @@
 
 Meeting MW 2:55-4:10pm in 255 Olin Hall\
 Professor [Sarah Dean](https://sdean.website/), informal office hours MW after lecture in 255 Olin or MW 4:30-5pm in Gates 416A by appointment\
-TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours Mondays 11am - 12pm in Rhodes 574\
+TA [Raunak Kumar](https://raunakkmr.github.io/), Office hours Thursdays 2:30pm - 3:30pm in Rhodes 576\
 Please use [Ed Discussions](https://edstem.org/us/courses/43757/discussion/) for any questions.
 
 Please fill out [this form](https://forms.gle/jrSPksqc6i5v5NTn7) to join the class's [collaborative GitHub repository](https://github.com/ml-feedback-sys/collaborative-f23).\
