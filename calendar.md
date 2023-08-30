@@ -8,11 +8,11 @@
 | 8/28 | 3 | Lecture | Supervised Learning: Least squares ([slides](https://slides.com/sarahdean-2/03-supervised-learning-ml-in-feedback-sys-f23?token=2w_UDO-5)) |
 | 8/30 | 4 | Lecture | Online Learning via Online Convex Optimization ([slides](https://slides.com/sarahdean-2/04-online-learning-ml-in-feedback-sys-f23?token=KiDmLN4_)) |
 | 9/4 | | | No Meeting: Labor Day |
-| 9/6 | 5 | Dynamical Systems: Equilibria and Stability |
-| 9/11 | 6 | Dynamical Systems: Nonlinear Stability |
-| 9/13 | 7 | Stochastic Dynamics and Input/Output Models |
-| 9/18 | 8 | State Estimation | 
-| 9/20 | 9 | System Identification |
+| 9/6 | 5 |  Lecture | Dynamical Systems: Equilibria and Stability |
+| 9/11 | 6 |  Lecture | Dynamical Systems: Nonlinear Stability |
+| 9/13 | 7 |  Lecture | Stochastic Dynamics and Input/Output Models |
+| 9/18 | 8 |  Lecture | State Estimation | 
+| 9/20 | 9 |  Lecture | System Identification |
 | 9/25 |
 | 9/27 |
 | 10/2 |
