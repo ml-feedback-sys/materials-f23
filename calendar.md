@@ -9,7 +9,7 @@
 | 8/30 | 4 | Lecture | Online Learning via Online Convex Optimization ([slides](https://slides.com/sarahdean-2/04-online-learning-ml-in-feedback-sys-f23?token=KiDmLN4_)) |
 | 9/4 | | | No Meeting: Labor Day |
 | 9/6 | 5 |  Lecture | Dynamical Systems: Equilibria and Stability ([slides](https://slides.com/sarahdean-2/05-dynamical-systems-ml-in-feedback-sys-f23?token=tTfB-j-2)) |
-| 9/11 | 6 |  Lecture | Dynamical Systems: Nonlinear Stability |
+| 9/11 | 6 |  Lecture | Dynamical Systems: Nonlinear Stability ([slides](https://slides.com/sarahdean-2/06-dynamical-systems-ml-in-feedback-sys-f23?token=wkbfpqV5)) |
 | 9/13 | 7 |  Lecture | Stochastic Dynamics and Input/Output Models |
 | 9/18 | 8 |  Lecture | State Estimation | 
 | 9/20 | 9 |  Lecture | System Identification |
