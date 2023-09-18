@@ -11,13 +11,13 @@
 | 9/6 | 5 |  Lecture | Dynamical Systems: Equilibria and Stability ([slides](https://slides.com/sarahdean-2/05-dynamical-systems-ml-in-feedback-sys-f23?token=tTfB-j-2)) |
 | 9/11 | 6 |  Lecture | Dynamical Systems: Nonlinear Stability ([slides](https://slides.com/sarahdean-2/06-dynamical-systems-ml-in-feedback-sys-f23?token=wkbfpqV5)) |
 | 9/13 | 7 |  Lecture | Stochastic Dynamics and Input/Output Models ([slides](https://slides.com/sarahdean-2/07-dynamical-systems-ml-in-feedback-sys-f23?token=TIxlckf9)) |
-| 9/18 | 8 |  Lecture | State Estimation | 
+| 9/18 | 8 |  Lecture | State Estimation ([slides](https://slides.com/sarahdean-2/08-state-estimation-ml-in-feedback-sys-f23?token=Oohri6Hm)) | 
 | 9/20 | 9 |  Lecture | System Identification |
-| 9/25 |
-| 9/27 |
-| 10/2 |
-| 10/4 |
-| 10/9 |
+| 9/25 | 10 | Guest Lecture |  |
+| 9/27 | 11 | Lecture | From Prediction to Actions: Bandits |
+| 10/2 | 12 | Lecture | Contextual Bandits | 
+| 10/4 | 13 | Lecture | Optimal Control, Dynamic Programming, and Reinforcement Learning |
+| 10/9 | | | No Meeting: Fall Break |
 | 10/11 |
 | 10/16 |
 | 10/18 |
