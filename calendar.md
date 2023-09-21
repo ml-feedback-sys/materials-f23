@@ -12,7 +12,7 @@
 | 9/11 | 6 |  Lecture | Dynamical Systems: Nonlinear Stability ([slides](https://slides.com/sarahdean-2/06-dynamical-systems-ml-in-feedback-sys-f23?token=wkbfpqV5)) |
 | 9/13 | 7 |  Lecture | Stochastic Dynamics and Input/Output Models ([slides](https://slides.com/sarahdean-2/07-dynamical-systems-ml-in-feedback-sys-f23?token=TIxlckf9)) |
 | 9/18 | 8 |  Lecture | State Estimation ([slides](https://slides.com/sarahdean-2/08-state-estimation-ml-in-feedback-sys-f23?token=Oohri6Hm)) | 
-| 9/20 | 9 |  Lecture | System Identification |
+| 9/20 | 9 |  Lecture | System Identification ([slides](https://slides.com/sarahdean-2/09-sys-id-ml-in-feedback-sys-f23?token=ZTiqIrGP)) |
 | 9/25 | 10 | Guest Lecture |  |
 | 9/27 | 11 | Lecture | From Prediction to Actions: Bandits |
 | 10/2 | 12 | Lecture | Contextual Bandits | 
