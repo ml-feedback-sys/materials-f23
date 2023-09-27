@@ -13,8 +13,8 @@
 | 9/13 | 7 |  Lecture | Stochastic Dynamics and Input/Output Models ([slides](https://slides.com/sarahdean-2/07-dynamical-systems-ml-in-feedback-sys-f23?token=TIxlckf9)) |
 | 9/18 | 8 |  Lecture | State Estimation ([slides](https://slides.com/sarahdean-2/08-state-estimation-ml-in-feedback-sys-f23?token=Oohri6Hm)) | 
 | 9/20 | 9 |  Lecture | System Identification ([slides](https://slides.com/sarahdean-2/09-sys-id-ml-in-feedback-sys-f23?token=ZTiqIrGP)) |
-| 9/25 | 10 | Guest Lecture |  |
-| 9/27 | 11 | Lecture | From Prediction to Actions: Bandits |
+| 9/25 | 10 | Guest Lecture | Nonlinear System Identification by [Yahya Sattar](https://yahya-sattar.github.io/) ([slides](https://github.com/ml-feedback-sys/materials-f23/blob/main/notebooks/ML_Feedback_Lec10.pdf)) |
+| 9/27 | 11 | Lecture | From Prediction to Actions: Bandits ([slides](https://slides.com/sarahdean-2/11-bandits-ml-in-feedback-sys-f23?token=hEjgubdB)) |
 | 10/2 | 12 | Lecture | Contextual Bandits | 
 | 10/4 | 13 | Lecture | Optimal Control, Dynamic Programming, and Reinforcement Learning |
 | 10/9 | | | No Meeting: Fall Break |
