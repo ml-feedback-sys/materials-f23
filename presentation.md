@@ -31,7 +31,7 @@ Students will select papers from this list:
  - [KTR19] Karl Krauth, Stephen Tu, and Benjamin Recht. Finite-time analysis of approximate policy iteration for the linear quadratic regulator. 2019.
  - [LHQ+22] Yiheng Lin, Yang Hu, Guannan Qu, Tongxin Li, Adam Wierman. Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity. 2022.
  - [LKKLM21] Liu Leqi, Fatma Kilinc Karzan, Zachary Lipton, and Alan Montgomery. Rebounding bandits for modeling satiation effects. 2021.
- - [LWH+20] Lydia T Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, and Jennifer Chayes. 2020.
+ - [LWH+20] Lydia T Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, and Jennifer Chayes. The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally. 2020.
  - [MJR20] Horia Mania, Michael I Jordan, and Benjamin Recht. Active learning for nonlinear system identification with guarantees. 2020.
  - [MOS18] Hussein Mozannar, Mesrob I. Ohannessian, Nathan Srebro. From fair decision making to social equality. 2018. - [SR19] Tuhin Sarkar and Alexander Rakhlin. Near optimal finite time identification of arbitrary linear dynamical systems. 2019.
  - [TMP20] Anastasios Tsiamis, Nikolai Matni, and George Pappas. Sample complexity of kalman filtering for unknown systems. 2020.
