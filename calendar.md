@@ -15,7 +15,7 @@
 | 9/20 | 9 |  Lecture | System Identification ([slides](https://slides.com/sarahdean-2/09-sys-id-ml-in-feedback-sys-f23?token=ZTiqIrGP)) |
 | 9/25 | 10 | Guest Lecture | Nonlinear System Identification by [Yahya Sattar](https://yahya-sattar.github.io/) ([slides](https://github.com/ml-feedback-sys/materials-f23/blob/main/notebooks/ML_Feedback_Lec10.pdf)) |
 | 9/27 | 11 | Lecture | From Prediction to Actions: Bandits ([slides](https://slides.com/sarahdean-2/11-bandits-ml-in-feedback-sys-f23?token=hEjgubdB)) |
-| 10/2 | 12 | Lecture | Contextual Bandits | 
+| 10/2 | 12 | Lecture | Contextual Bandits ([slides](https://slides.com/sarahdean-2/12-bandits-ml-in-feedback-sys-f23?token=x5xhFh17)) | 
 | 10/4 | 13 | Lecture | Optimal Control, Dynamic Programming, and Reinforcement Learning |
 | 10/9 | | | No Meeting: Fall Break |
 | 10/11 |
