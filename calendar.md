@@ -19,18 +19,18 @@
 | 10/4 | 13 | Lecture | Optimal Control and Dynamic Programming ([slides](https://slides.com/sarahdean-2/13-optimal-control-ml-in-feedback-sys-f23?token=NDoptegF)) |
 | 10/9 | | | No Meeting: Fall Break |
 | 10/11 | 14 | Lecture | Optimal Linear Control |
-| 10/16 |
-| 10/18 |
-| 10/23 |
-| 10/25 |
-| 10/30 | | Paper Presentation |
-| 11/1 | | Paper Presentation |
-| 11/6 | | Paper Presentation |
-| 11/8 | | Paper Presentation |
-| 11/13 | | Paper Presentation |
-| 11/15 | | Paper Presentation |
-| 11/20 | | Paper Presentation |
-| 11/22 | | Paper Presentation |
-| 11/27 | | Paper Presentation |
-| 11/29 | | Paper Presentation |
-| 12/4 | | Paper Presentation |
+| 10/16 | 15 | Lecture | Adaptive & Robust Control |
+| 10/18 | 16 | Lecture | Safe Control |
+| 10/23 | 17 | Lecture | Receeding Horizon Control |
+| 10/25 | 18 | Guest Lecture | |
+| 10/30 | 19 | Paper Presentation |
+| 11/1 | 20 | Paper Presentation |
+| 11/6 | 21 | Paper Presentation |
+| 11/8 | 22 | Paper Presentation |
+| 11/13 | 23 | Paper Presentation |
+| 11/15 | 24 | Paper Presentation |
+| 11/20 | 25 | Paper Presentation |
+| 11/22 | 26 | Paper Presentation |
+| 11/27 | 27 | Paper Presentation |
+| 11/29 | 28 | Paper Presentation |
+| 12/4 | 29 | Paper Presentation |
