@@ -16,21 +16,21 @@
 | 9/25 | 10 | Guest Lecture | Nonlinear System Identification by [Yahya Sattar](https://yahya-sattar.github.io/) ([slides](https://github.com/ml-feedback-sys/materials-f23/blob/main/notebooks/ML_Feedback_Lec10.pdf)) |
 | 9/27 | 11 | Lecture | From Prediction to Actions: Bandits ([slides](https://slides.com/sarahdean-2/11-bandits-ml-in-feedback-sys-f23?token=hEjgubdB)) |
 | 10/2 | 12 | Lecture | Contextual Bandits ([slides](https://slides.com/sarahdean-2/12-bandits-ml-in-feedback-sys-f23?token=x5xhFh17)) | 
-| 10/4 | 13 | Lecture | Optimal Control, Dynamic Programming, and Reinforcement Learning |
+| 10/4 | 13 | Lecture | Optimal Control and Dynamic Programming ([slides](https://slides.com/sarahdean-2/13-optimal-control-ml-in-feedback-sys-f23?token=NDoptegF)) |
 | 10/9 | | | No Meeting: Fall Break |
-| 10/11 |
+| 10/11 | 14 | Lecture | Optimal Linear Control |
 | 10/16 |
 | 10/18 |
 | 10/23 |
 | 10/25 |
-| 10/30 |
-| 11/1 |
-| 11/6 |
-| 11/8 |
-| 11/13 |
-| 11/15 |
-| 11/20 |
-| 11/22 |
-| 11/27 |
-| 11/29 |
-| 12/4 |
+| 10/30 | | Paper Presentation |
+| 11/1 | | Paper Presentation |
+| 11/6 | | Paper Presentation |
+| 11/8 | | Paper Presentation |
+| 11/13 | | Paper Presentation |
+| 11/15 | | Paper Presentation |
+| 11/20 | | Paper Presentation |
+| 11/22 | | Paper Presentation |
+| 11/27 | | Paper Presentation |
+| 11/29 | | Paper Presentation |
+| 12/4 | | Paper Presentation |
