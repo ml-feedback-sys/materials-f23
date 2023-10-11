@@ -18,7 +18,7 @@
 | 10/2 | 12 | Lecture | Contextual Bandits ([slides](https://slides.com/sarahdean-2/12-bandits-ml-in-feedback-sys-f23?token=x5xhFh17)) | 
 | 10/4 | 13 | Lecture | Optimal Control and Dynamic Programming ([slides](https://slides.com/sarahdean-2/13-optimal-control-ml-in-feedback-sys-f23?token=NDoptegF)) |
 | 10/9 | | | No Meeting: Fall Break |
-| 10/11 | 14 | Lecture | Optimal Linear Control |
+| 10/11 | 14 | Lecture | Optimal Linear Control ([slides](https://slides.com/sarahdean-2/14-optimal-control-ml-in-feedback-sys-f23?token=KZdEfxix)) |
 | 10/16 | 15 | Lecture | Adaptive & Robust Control |
 | 10/18 | 16 | Lecture | Safe Control |
 | 10/23 | 17 | Lecture | Receeding Horizon Control |
