@@ -19,8 +19,8 @@
 | 10/4 | 13 | Lecture | Optimal Control and Dynamic Programming ([slides](https://slides.com/sarahdean-2/13-optimal-control-ml-in-feedback-sys-f23?token=NDoptegF)) |
 | 10/9 | | | No Meeting: Fall Break |
 | 10/11 | 14 | Lecture | Optimal Linear Control ([slides](https://slides.com/sarahdean-2/14-optimal-control-ml-in-feedback-sys-f23?token=KZdEfxix)) |
-| 10/16 | 15 | Lecture | Adaptive & Robust Control |
-| 10/18 | 16 | Lecture | Safe Control |
+| 10/16 | 15 | Lecture | Adaptive & Robust Control ([slides](https://slides.com/sarahdean-2/15-optimal-control-ml-in-feedback-sys-f23?token=U1wdkqPR)) |
+| 10/18 | 16 | Lecture | Safe Control ([slides](https://slides.com/sarahdean-2/16-safe-control-ml-in-feedback-sys-f23?token=nhIRPMGq)] |
 | 10/23 | 17 | Lecture | Receeding Horizon Control |
 | 10/25 | 18 | Guest Lecture | |
 | 10/30 | 19 | Paper Presentation |
